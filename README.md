@@ -1,4 +1,4 @@
-# NLW 11 - Setup
+# NLW 11: Setup
 
 ## [Server - RESTful API Fastify](./server/)
 ## [WEB - Frontend React](./web/)
